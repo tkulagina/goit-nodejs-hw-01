@@ -26,7 +26,5 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
   }
 };
 
-const id = "qdggE76Jtbfd9eWJHrssH";
-
-invokeAction({action: "remove", id});
+invokeAction();
 
